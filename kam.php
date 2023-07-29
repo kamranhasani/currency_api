@@ -1,6 +1,6 @@
 <?php
  //header('Content-Type: application/json; charset=utf-8');
-$url="https://api.currencyapi.com/v3/latest?apikey=cur_live_OZWEDiarcR5tJvyn1JnbgtviqTs281wtdQjgzX3z";
+$url="https://api.currencyapi.com/v3/latest?apikey=TOKEN_KEY";
 
 
 $client = curl_init(); 
