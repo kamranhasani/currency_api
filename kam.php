@@ -14,7 +14,7 @@ $BTC= $result->data->BTC->value;
 $ETH= $result->data->ETH->value;
 $USDT= $result->data->USDT->value;
 $LTC= $result->data->LTC->value;
-$XRP= $result->data->XRP->value;
+$XRP= $result->data->TRX->value;
 
 
 
@@ -69,7 +69,7 @@ $XRP= $result->data->XRP->value;
     <tr>
       <th scope="row">5</th>
       <td>TRON</td>
-      <td><?php echo mb_substr(strip_tags($XRP),0,7,'utf8');?></td>
+      <td><?php echo mb_substr(strip_tags($TRX),0,7,'utf8');?></td>
      
     </tr>
   </tbody>
