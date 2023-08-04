@@ -61,13 +61,13 @@ $XRP= $result->data->XRP->value;
    
     </tr>
     <tr>
-      <th scope="row">2</th>
+      <th scope="row">4</th>
       <td>Litecoin</td> 
       <td><?php echo mb_substr(strip_tags($LTC),0,7,'utf8');?></td>
     
     </tr>
     <tr>
-      <th scope="row">2</th>
+      <th scope="row">5</th>
       <td>TRON</td>
       <td><?php echo mb_substr(strip_tags($XRP),0,7,'utf8');?></td>
      
