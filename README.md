@@ -1,6 +1,6 @@
 # Student project.
 # Includes:
-php 8.0 -
+php 7.0 -
 bootstrap -
 html -
 css -
