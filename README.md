@@ -1,5 +1,5 @@
 # Student project 
-Get currency_api
+Get currency => api
 # Includes:
 php 7.0 -
 bootstrap -
