@@ -1,2 +1,7 @@
-# currency_api => app.currencyapi.com
-# email : kamranhasaniinfo@gmail.com.
+# Student project.
+# Includes:
+php 8.0.
+bootstrap.
+html.
+css.
+Developer Email : kamranhasaniinfo@gmail.com.
