@@ -1,5 +1,5 @@
-# Student project-Educational
-Get currency => api
+# Get currency => api
+Educational
 # Includes:
 php 7.0 -
 bootstrap -
